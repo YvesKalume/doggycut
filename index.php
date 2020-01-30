@@ -7,6 +7,8 @@ $dog = new Dog();
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta name="author" content="Yves Kalume">
+    <meta name="description" content="random dogs pictures">
     <link rel="stylesheet" href="assets/bootstrap.min.css">
     <link rel="stylesheet" href="assets/style.css">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
