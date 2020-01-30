@@ -1,0 +1,12 @@
+@media (min-width: 600px) {
+    .dog-img{
+        height: 500px;
+    }
+}
+.refresh-btn {
+    margin-top: 10px;
+    padding: 10px;
+    border-radius: 30px;
+    color: #31b0d5;
+    border: #31b0d5 solid 1px;
+}
