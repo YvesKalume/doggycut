@@ -1,2 +1,2 @@
 # doggy cut
-ressource url : https://random.dog/woof.json
+a simple php app that generate random dog pictures
